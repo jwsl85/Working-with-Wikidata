@@ -41,9 +41,8 @@ about our world.
 Please see the Readme and Contributor guidelines.
 
 
-* [Roadmap](https://github.com/jwsl85/Working-with-Wikidata/blob/master/Roadmap.md) 
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Roadmap](https://github.com/jwsl85/Working-with-Wikidata/blob/master/Roadmap.md) - Look at the project roadmap
+* [WMUK](https://wikimedia.org.uk/wiki/Main_Page) - Check out the Wikimedia UK site
 
 ```
 Give the example
