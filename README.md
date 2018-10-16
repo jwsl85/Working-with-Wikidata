@@ -41,7 +41,7 @@ about our world.
 Please see the Readme and Contributor guidelines.
 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) 
+* [Roadmap](https://github.com/jwsl85/Working-with-Wikidata/blob/master/Roadmap.md) 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
