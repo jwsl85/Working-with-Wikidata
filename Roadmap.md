@@ -19,7 +19,7 @@ Milestone 4 - Appoint a Wikidata Wikimedian in Residence at a prestigious instit
 
 Milestone 1
 
-####Tasks####
+<u>Tasks</u>
 Define stakeholders - Degrees in Data Science. Data organisations, Wikimedia Deutschland staff.
 Define resources (trainers, materials, content such as videos, graphic design, etc)
 Talk to data scientists. Are you a data scientist? Talk to me and help me 
