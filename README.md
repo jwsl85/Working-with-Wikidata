@@ -40,7 +40,7 @@ about our world.
 
 Please see the Readme and Contributor guidelines.
 
-
+* [Contributor guidelines](https://github.com/jwsl85/Working-with-Wikidata/blob/master/CONTRIBUTING) - How to contribute
 * [Roadmap](https://github.com/jwsl85/Working-with-Wikidata/blob/master/Roadmap.md) - Look at the project roadmap
 * [WMUK](https://wikimedia.org.uk/wiki/Main_Page) - Check out the Wikimedia UK site
 
