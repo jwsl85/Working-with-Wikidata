@@ -1,4 +1,4 @@
-# Project vision#
+# Project vision
 
 Data literacy is becoming increasingly important. We want to make Wikidata known as a primary means of teaching data literacy, and
 to train people to understand and use it to create interesting projects, thereby creating a bigger Wikidata community in the UK.
