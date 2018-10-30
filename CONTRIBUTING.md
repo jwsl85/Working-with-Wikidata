@@ -38,3 +38,5 @@ We need to figure out who the stakeholders are we should be communicating with. 
 
 One of the best ways you can contribute at the moment is to suggest people who we should work with or approach as groups who might
 want to use Wikidata as part of their workflow.
+
+- Resources: what kind of resources exist currently? We need to make it easier for people to use Wikidata, so resources for learning and a set path for onboarding people is really necessary.
